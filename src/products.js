@@ -1,8 +1,8 @@
 const products = [
   {
     _id: '1',
-    name: 'Mechanical Hybrid Blue Tactile & Clicky Switch Gaming Keyboard ',
-    image: './images/item1.JPG',
+    name: 'Mechanical Hybrid Gaming Keyboard ',
+    image: '/assets/item1.JPG',
     description:
       ' Gaming keyboard has hybrid mechanical switches that combine the smoothness of a membrane switch with the added durability, performance, and satisfying tactile click of a blue mechanical switch.',
     brand: 'Apex',
@@ -15,7 +15,7 @@ const products = [
   {
     _id: '2',
     name: 'Gamer Master Gaming Desktop ',
-    image: '/images/item2.JPG',
+    image: '/assets/item2.JPG',
     description:
       ' Edge out the pack with this CyberPowerPC Gamer Master gaming computer.',
     brand: 'CyberPowerPC',
@@ -28,7 +28,7 @@ const products = [
   {
     _id: '3',
     name: 'SlateMESH Gaming Desktop - Intel i7-12700F ',
-    image: '/images/item3.JPG',
+    image: '/assets/item3.JPG',
     description:
       ' It is 16GB of RAM and Intel i7-12700F processor lets you run multiple programs at once, and its NIVIDA RTX 3060 graphics card renders fast-paced action smoothly without screen tearing.',
     brand: 'iBUYPOWER',
@@ -41,7 +41,7 @@ const products = [
   {
     _id: '4',
     name: 'Inspiron Compact Desktop - Intel Core i7-12700/bundle ',
-    image: '/images/item4.JPG',
+    image: '/assets/item4.JPG',
     description:
       ' Powerful 12-core processing performance. The Intel® Turbo Boost technology delivers dynamic extra power when you need it, while increasing energy efficiency when you do not.',
     brand: 'Dell',
@@ -54,7 +54,7 @@ const products = [
   {
     _id: '5',
     name: 'Full-size Wired Mechanical, Gaming Keyboard ',
-    image: '/images/item5.JPG',
+    image: '/assets/item5.JPG',
     description:
       ' Step up your game with the precision of this Corsair K70 RGB MK.2 gaming keyboard. ',
     brand: 'Nyper',
@@ -67,7 +67,7 @@ const products = [
   {
     _id: '6',
     name: 'Ultimate Wireless Optical with HyperSpeed Gaming Mouse ',
-    image: '/images/item6.JPG',
+    image: '/assets/item6.JPG',
     description:
       ' HyperSpeed wireless technology minimizes latency, and the Focus+ optical sensor lets you aim precisely with a sensitivity of up to 20,000 dpi. ',
     brand: 'Razer',
@@ -80,7 +80,7 @@ const products = [
   {
     _id: '7',
     name: 'Full-size Wireless Membrane Keyboard',
-    image: '/images/item7.JPG',
+    image: '/assets/item7.JPG',
     description:
       ' Logitech Advanced 2.4 GHz wireless delivers the reliability of a cord plus wireless convenience for up to 32.8ft, with virtually no delays or dropouts—even in the busiest wireless environments. ',
     brand: 'Logitech',
@@ -93,7 +93,7 @@ const products = [
   {
     _id: '8',
     name: 'Microsoft - Surface Pro 7+ - 12.3” Touch Screen',
-    image: '/images/item8.JPG',
+    image: '/assets/item8.JPG',
     description:
       ' Classic Surface Pro 2-in-1 design meets high-speed performance, giving you premium laptop power, a powerful tablet, or portable digital canvas designed to light up the best of Windows 11.',
     brand: 'Microsoft',
@@ -106,8 +106,8 @@ const products = [
 
   {
     _id: '9',
-    name: 'Fire HD 8 10th Generation - 8" - Tablet - 32GB - Black',
-    image: '/images/item9.JPG',
+    name: 'Fire HD 8 10th Generation Tablet',
+    image: '/assets/item9.JPG',
     description:
       ' Work and play on the go with this 8-inch 10th Gen Amazon Fire HD tablet. ',
     brand: 'Amazon Fire',
@@ -120,7 +120,7 @@ const products = [
   {
     _id: '10',
     name: 'Gamer Xtreme Gaming Desktop',
-    image: '/images/item10.JPG',
+    image: '/assets/item10.JPG',
     description:
       ' Destroy the competition with the CyberPowerPC Gamer Xtreme series of gaming desktops. ',
     brand: 'Acer',
@@ -133,7 +133,7 @@ const products = [
   {
     _id: '11',
     name: 'Gamer Xtreme Gaming Desktop',
-    image: '/images/item11.JPG',
+    image: '/assets/item11.JPG',
     description: ' AMD FreeSync - VESA - Monitor (HDMI) - Black. ',
     brand: 'Dell',
     category: 'desktop',
@@ -144,8 +144,8 @@ const products = [
   },
   {
     _id: '12',
-    name: 'Tab P12 Pro - 12.6" - Tablet - 8GB - 256GB - with Keyboard',
-    image: '/images/item12.JPG',
+    name: 'Tab P12 Pro Tablet with Keyboard',
+    image: '/assets/item12.JPG',
     description:
       ' The Lenovo Tab P12 Pro doubles as a wireless second screen for your laptop while also supporting touch and pen input, thanks to Lenovo Project Unity. ',
     brand: 'Lenovo',
@@ -158,7 +158,7 @@ const products = [
   {
     _id: '13',
     name: 'Aerox 3 2022 Edition Lightweight Wireless Optical Gaming Mouse ',
-    image: '/images/item13.JPG',
+    image: '/assets/item13.JPG',
     description:
       ' The SteelSeries Aerox 3 Wireless 2022 mouse has an ultra lightweight 68g design perfectly optimized for super light mouse swipes. ',
     brand: 'SteelSeries',
@@ -171,7 +171,7 @@ const products = [
   {
     _id: '15',
     name: '27" IPS LED FHD FreeSync Monitor / White ',
-    image: '/images/item15.JPG',
+    image: '/assets/item15.JPG',
     description:
       ' The New Definition of High Definition: This FHD monitor feels as good as it looks, packing IPS technology for 178 degrees ultra-wide viewing angles. ',
     brand: 'HP',
@@ -184,7 +184,7 @@ const products = [
   {
     _id: '16',
     name: 'Kone XP Wired Optical Gaming Mouse ',
-    image: '/images/item16.JPG',
+    image: '/assets/item16.JPG',
     description:
       'The ROCCAT Kone XP 3D Lighting Gaming Mouse utilizes the refined ergonomics of the iconic Kone shape.  ',
     brand: 'Roccat',
@@ -197,7 +197,7 @@ const products = [
   {
     _id: '17',
     name: 'Galaxy Book2 360 13.3" AMOLED Touch Screen Laptop ',
-    image: '/images/item17.JPG',
+    image: '/assets/item17.JPG',
     description:
       'Transform your everyday with Galaxy Book2 360, the PC that’s ready to go wherever you go. ',
     brand: 'Samsung',
@@ -210,7 +210,7 @@ const products = [
   {
     _id: '18',
     name: 'MacBook Air 13.3" Laptop - Apple M1 chip',
-    image: '/images/item18.JPG',
+    image: '/assets/item18.JPG',
     description:
       'Apple’s thinnest and lightest notebook gets supercharged with the Apple M1 chip.  ',
     brand: 'Apple',
