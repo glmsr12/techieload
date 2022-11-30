@@ -10,7 +10,7 @@ const Rating = ({ value, text }) => {
               ? 'fa-solid fa-star'
               : value >= 0.5
               ? 'fa-solid fa-star-sharp-half'
-              : ' class="fa-regular fa-star'
+              : 'fa-regular fa-star'
           }
         ></i>
       </span>
@@ -21,7 +21,7 @@ const Rating = ({ value, text }) => {
               ? 'fa-solid fa-star'
               : value >= 1.5
               ? 'fa-solid fa-star-sharp-half'
-              : ' class="fa-regular fa-star'
+              : 'fa-regular fa-star'
           }
         ></i>
       </span>
@@ -32,7 +32,7 @@ const Rating = ({ value, text }) => {
               ? 'fa-solid fa-star'
               : value >= 2.5
               ? 'fa-solid fa-star-sharp-half'
-              : ' class="fa-regular fa-star'
+              : 'fa-regular fa-star'
           }
         ></i>
       </span>
@@ -43,7 +43,7 @@ const Rating = ({ value, text }) => {
               ? 'fa-solid fa-star'
               : value >= 3.5
               ? 'fa-solid fa-star-sharp-half'
-              : ' class="fa-regular fa-star'
+              : 'fa-regular fa-star'
           }
         ></i>
       </span>
@@ -54,7 +54,7 @@ const Rating = ({ value, text }) => {
               ? 'fa-solid fa-star'
               : value >= 4.5
               ? 'fa-solid fa-star-sharp-half'
-              : ' class="fa-regular fa-star'
+              : 'fa-regular fa-star'
           }
         ></i>
       </span>

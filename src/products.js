@@ -204,7 +204,7 @@ const products = [
     category: 'laptop',
     price: 1149.99,
     countInStock: 18,
-    rating: 4.6,
+    rating: 4.5,
     numReviews: 56,
   },
   {
@@ -217,7 +217,7 @@ const products = [
     category: 'laptop',
     price: 1149.99,
     countInStock: 18,
-    rating: 4.9,
+    rating: 5.0,
     numReviews: 26,
   },
 ];
