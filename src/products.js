@@ -207,19 +207,6 @@ const products = [
     rating: 4.5,
     numReviews: 56,
   },
-  {
-    _id: '18',
-    name: 'MacBook Air 13.3" Laptop - Apple M1 chip',
-    image: '/assets/item18.JPG',
-    description:
-      'Apple’s thinnest and lightest notebook gets supercharged with the Apple M1 chip.  ',
-    brand: 'Apple',
-    category: 'laptop',
-    price: 1149.99,
-    countInStock: 18,
-    rating: 5.0,
-    numReviews: 26,
-  },
 ];
 
 export default products;
