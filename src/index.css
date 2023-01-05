@@ -3,11 +3,11 @@ main {
   background: rgb(6, 161, 150);
   background: linear-gradient(
     90deg,
-    rgb(123, 230, 223) 39%,
+    rgb(41, 126, 121) 39%,
     rgba(170, 240, 225, 1) 98%
   );
 }
 
 span {
-  color: rgb(48, 48, 128);
+  color: rgb(78, 78, 190);
 }
