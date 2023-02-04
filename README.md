@@ -1,6 +1,6 @@
 
 
-
+Simple React Landing Page
 
 
 <img width="1678" alt="Screenshot 2023-02-03 at 11 12 34 PM" src="https://user-images.githubusercontent.com/91402082/216754630-214399e0-8e1a-452d-a763-df1014a1a288.png">
